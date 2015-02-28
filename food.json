@@ -4,67 +4,78 @@
       "name": "Starbucks",
       "lat": 20.73475,
       "lng": -103.455378,
-      "desc": "Cafe algo caro, dicen que esta bueno"
+      "desc": "Cafe algo caro, dicen que esta bueno",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "OXXO",
       "lat": 20.733991,
       "lng": -103.456324,
-      "desc": "Venden todo, menos chicles"
+      "desc": "Venden todo, menos chicles",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Cafeteria",
       "lat": 20.733228,
       "lng": -103.454755,
-      "desc": "Bueno, bonit y barato"
+      "desc": "Bueno, bonit y barato",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Subway",
       "lat": 20.734678,
       "lng": -103.457691,
-      "desc": "Compra dos de 25, con todos los vegetales, has solo uno combo"
+      "desc": "Compra dos de 25, con todos los vegetales, has solo uno combo",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Juvie Jus",
       "lat": 20.734743,
       "lng": -103.457694,
-      "desc": "Creo que venden crepas y sandwiches"
+      "desc": "Creo que venden crepas y sandwiches",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Yum Yum",
       "lat": 20.734603,
       "lng": -103.457707,
-      "desc": "Comidas varias, ya no dan papas con tu orden :c"
+      "desc": "Comidas varias, ya no dan papas con tu orden :c",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "G\u00fcich",
       "lat": 20.735217,
       "lng": -103.455598,
-      "desc": "Ensaladas mas que nada"
+      "desc": "Ensaladas mas que nada",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Yum Yum",
       "lat": 20.7353,
       "lng": -103.455588,
-      "desc": "Comidas varias, ya no dan papas con tu orden :c"
+      "desc": "Comidas varias, ya no dan papas con tu orden :c",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "La Selva",
       "lat": 20.735377,
       "lng": -103.455571,
-      "desc": "Es menospreciado, pero esta bueno"
+      "desc": "Es menospreciado, pero esta bueno",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "G\u00fcich",
       "lat": 20.734519,
       "lng": -103.452744,
-      "desc": "Ensaladas mas que nada"
+      "desc": "Ensaladas mas que nada",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     },
     {
       "name": "Juvie Jus",
       "lat": 20.734745,
       "lng": -103.452762,
-      "desc": "Creo que venden crepas y sandwiches"
+      "desc": "Creo que venden crepas y sandwiches",
+      "img": "http://cdn.collider.com/wp-content/uploads/nicolas_cage_image__1_.jpg"
     }
   ]
 }
