@@ -16,5 +16,16 @@
                 "name": "Bowling",
                 "hobbies": "Throw a heavy ball into defenseless creatures. The more you kill the better."
         }
-    ]
+    ],
+    "project": {
+            "name": "CarAnchor",
+            "desc": "App to help people find their car after parking.",
+            "team": [
+                0:"Yoab Pizarro",
+                1:"Cesar Robles",
+                2:"Alberto Villagomez"
+            ],
+            "picURL": ""
+        }
+    }
 }
