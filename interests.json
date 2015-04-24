@@ -1,0 +1,20 @@
+{
+    "interests": [
+        {
+                "name": "Free run",
+                "desc": "Run arround, do the occasional flip, jump stuff."
+        },
+        {
+                "name": "Juggling",
+                "hobbies": "Throw stuff, catch it, throw it again."
+        },
+        {
+                "name": "Origami",
+                "hobbies": "fold stuff again and again, mostly paper."
+        },
+        {
+                "name": "Bowling",
+                "hobbies": "Throw a heavy ball into defenseless creatures. The more you kill the better."
+        }
+    ]
+}
