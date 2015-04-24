@@ -1,31 +1,30 @@
 {
-    "interests": [
-        {
-                "name": "Free run",
-                "desc": "Run arround, do the occasional flip, jump stuff."
-        },
-        {
-                "name": "Juggling",
-                "hobbies": "Throw stuff, catch it, throw it again."
-        },
-        {
-                "name": "Origami",
-                "hobbies": "fold stuff again and again, mostly paper."
-        },
-        {
-                "name": "Bowling",
-                "hobbies": "Throw a heavy ball into defenseless creatures. The more you kill the better."
-        }
-    ],
-    "project": {
-            "name": "CarAnchor",
-            "desc": "App to help people find their car after parking.",
-            "team": [
-                0:"Yoab Pizarro",
-                1:"Cesar Robles",
-                2:"Alberto Villagomez"
-            ],
-            "picURL": ""
-        }
+  "interests": [
+    {
+      "name": "Free run",
+      "desc": "Run arround, do the occasional flip, jump stuff."
+    },
+    {
+      "name": "Juggling",
+      "hobbies": "Throw stuff, catch it, throw it again."
+    },
+    {
+      "name": "Origami",
+      "hobbies": "fold stuff again and again, mostly paper."
+    },
+    {
+      "name": "Bowling",
+      "hobbies": "Throw a heavy ball into defenseless creatures. The more you kill the better."
     }
+  ],
+  "project": {
+    "name": "CarAnchor",
+    "desc": "App to help people find their car after parking.",
+    "team": [
+      "Yoab Pizarro",
+      "Cesar Robles",
+      "Alberto Villagomez"
+    ],
+    "picURL": "http://i.imgur.com/nSHEfQp.jpg"
+  }
 }
