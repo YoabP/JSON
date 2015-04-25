@@ -6,15 +6,15 @@
     },
     {
       "name": "Juggling",
-      "hobbies": "Throw stuff, catch it, throw it again."
+      "desc": "Throw stuff, catch it, throw it again."
     },
     {
       "name": "Origami",
-      "hobbies": "fold stuff again and again, mostly paper."
+      "desc": "fold stuff again and again, mostly paper."
     },
     {
       "name": "Bowling",
-      "hobbies": "Throw a heavy ball into defenseless creatures. The more you kill the better."
+      "desc": "Throw a heavy ball into defenseless creatures. The more you kill the better."
     }
   ],
   "project": {
